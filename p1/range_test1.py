@@ -6,3 +6,7 @@ print(range_numbers[2])
 
 list_range_numbers = list(range_numbers)
 print(list_range_numbers)
+
+print(range_numbers.index(12))
+
+print(range_numbers.count(7))
