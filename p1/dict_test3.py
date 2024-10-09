@@ -27,3 +27,6 @@ new_disk = my_disk.copy()
 
 new_disk['type'] = 'ssd'
 print(new_disk)
+
+keys = type(my_disk.keys())
+print(keys)
