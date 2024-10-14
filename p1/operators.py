@@ -23,6 +23,8 @@ dict_services = {
     4: '4 programm',
 }
 
+print(type(dict_services))
+
 service_in = 3
 
 print(service_in in dict_services)

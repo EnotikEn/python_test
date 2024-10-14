@@ -1,5 +1,5 @@
 set_values = {'1920x1080', '1600x900'}
-set_values_new = {'800x600', '1920x1080'}
+set_values_new = {'1600x900', '1920x1080'}
 
 # all_values = set_values.union(set_values_new)
 # or
